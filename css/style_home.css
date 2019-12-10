@@ -1,0 +1,200 @@
+.header {
+	display: block;
+}
+
+.title {
+    text-align: center;
+    font-size: 18px;
+
+    color: #303636;
+    font-family: 'Playfair Display', serif;
+    font-weight: lighter;
+    margin-bottom: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 0 auto;
+
+}
+
+.thumb {
+	width: 20px;
+	height: 20px;
+
+	margin: 4px;
+}
+
+.icons {
+
+   width: 135px;
+   height: auto;
+   margin: 0 auto 0 auto;
+}
+
+.menu {
+ 
+   position: relative;
+}
+
+.botton {
+   display: inline-block;
+   margin-right: 143px;
+   margin-left: 143px;
+   padding-top: 40px;
+   padding-bottom: 70px;
+   font-size: 13px;
+   text-decoration: none;
+   font-family: 'Roboto', sans-serif;
+   color: #303636;
+   font-weight: 600;
+ }
+
+ a:hover {
+ 	color: #5d9494;
+ }
+
+ .photos {
+ 	width: 230px;
+ 	height: 230px;
+ }
+
+ .photoproj1 {
+   
+   width: auto;
+   height: 270px;
+   margin: 0 auto 0 auto;
+   display: block;
+   margin-right: 143px;
+   margin-left: 143px;
+   padding-top: 30px;
+   padding-bottom: 10px;
+   padding-left: 1px;
+   padding-right: 1px;
+ }
+
+ .border {
+   border-color: #949c9c;
+   border: 1px solid;
+ }
+
+ h2 {
+
+   font-family: 'Roboto', sans-serif;
+   color: #303636;
+   font-size: 20px;
+   font-weight: 600;
+   text-decoration: none;
+ }
+
+ .sessoes {
+ 	margin: 0 auto 0 auto;
+ 	width: 50px;
+ 	height: 50px;
+ }
+
+ .sessoes1 {
+ 	margin: 0 auto 0 auto;
+ 	width: 85px;
+ 	height: 50px;
+ }
+
+ .sessoes2 {
+ 	margin: 0 auto 0 auto;
+ 	width: 72px;
+ 	height: 50px;
+ }
+
+.formulario {
+
+  width: 60%;
+  height: 290px;
+  margin: 0 auto 0 auto;
+}
+
+form {
+  border: none;
+  }
+
+.campo1 {
+  width: 400px;
+  float: right;
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+  float: right;
+}
+
+.labeltxt {
+  text-align: center;
+}
+
+label {
+  font-weight: 600;
+}
+
+.blocoform {
+
+  width: 480px;
+  margin: 0 auto 0 auto;
+}
+
+.blocoform2 {
+
+  width: 80px;
+  margin: 55px 0 auto 29%;
+}
+
+.areatxt {
+  float: right;
+  margin: 0 20% 0 auto;
+}
+
+textarea:-placeholder {
+  color: #c6cccc; 
+}
+
+#linhaital {
+  font-style: italic;
+
+}
+
+#parag1 {
+  line-height: 30px;
+  font-family: 'Roboto', sans-serif;
+  text-indent: 5px; 
+  font-size: 12px;
+  text-align: justify;
+  width: 600px;
+  font-weight: 300;
+}
+
+.alink {
+  text-decoration: none;
+}
+
+#rodap {
+  color: #c6cccc;
+}
+
+#parag {
+  text-align: center;
+  line-height: 10px;
+}
+
+footer {
+  padding-top: 80px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+.texto {
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
+  border-color: #c6cccc;
+  width: 600px;
+  margin: 0 auto 0 auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
